@@ -1,0 +1,39 @@
+<div class="container">
+        <a [routerLink]="['/addpost']"><button type="button" class="btn btn-info">Add</button></a>
+  <table class="table table-striped" [mfData]="data" #mf="mfDataTable" [mfRowsOnPage]="5">
+    <thead>
+    <tr>
+        <th>
+            <mfDefaultSorter by="Title">Title</mfDefaultSorter>
+        </th>
+  
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let item of mf.data">
+        <td>{{item.Title}}</td>
+        <td>  <a  data-toggle="modal" data-target="#myModal" (click)="getId(item)" id="item.Id" #item.Id> X</a> &nbsp;
+          <a class="nounderline" routerLink="/editpost/{{item.Url}}">
+             Edit</a>    
+              </td>
+    </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <td colspan="4">
+            <mfBootstrapPaginator [rowsOnPageSet]="[5,10,25]"></mfBootstrapPaginator>
+        </td>
+    </tr>
+    </tfoot>
+  </table>
+  </div>
+  
+  <app-delete [postId]="PostId"></app-delete>
+  
+  <ngx-spinner
+  bdColor = "rgba(51, 51, 51, 0.8)"
+  size = "medium"
+  color = "#fff"
+  type = "pacman"
+  ></ngx-spinner>

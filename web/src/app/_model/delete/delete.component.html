@@ -1,0 +1,25 @@
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog modal-custom">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button #btnClose type="button" class="close" data-dismiss="modal"><img src="assets/images/close-icons.png"></button>
+          <h4 class="modal-title">Confirmation Message</h4>
+        </div>
+        <div class="modal-body">
+<div class="logout-confirm">
+       <p>Are you sure you want to Logout?</p>
+     </div>
+   
+        </div>
+        <div class="modal-footer">
+         <button (click)="Delete()" type="button" class="button-custom">Yes</button> 
+         <button data-dismiss="modal" type="button" class="button-custom  btn-black">No</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
