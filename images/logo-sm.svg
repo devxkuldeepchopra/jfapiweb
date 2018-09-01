@@ -1,0 +1,27 @@
+<svg width="90" height="80" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="92" height="82" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#ffffff" stroke-width="0" x="14.635435" y="13.349639" width="5.351044" height="32.64706" id="svg_5" stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke-width="0" x="67.913423" y="13.814537" width="5.673624" height="30.891839" id="svg_6" stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke-width="0" x="27.970477" y="38.743607" width="5" height="40.341058" id="svg_9" transform="rotate(-45.54045867919922 30.470476150512706,58.91413497924805) " stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke-width="0" x="56.388543" y="37.858795" width="5.073993" height="39.724727" id="svg_10" transform="rotate(41 58.925537109375,57.721160888671875) " stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke-width="0" x="22.282494" y="2.353436" width="5.512334" height="17.277039" id="svg_11" stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke-width="0" x="60.147769" y="3.159887" width="5.351044" height="16.470588" id="svg_12" stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke="#ffffff" stroke-width="0" x="41.324239" y="-0.075407" width="4.705882" height="35" id="svg_13" transform="rotate(90.08699798583984 43.67717742919922,17.424592971801754) "/>
+  <rect fill="#ffffff" stroke-width="0" x="17.921673" y="2.611552" width="5.080767" height="13.744384" id="svg_14" transform="rotate(35.79061508178711 20.46205711364746,9.483743667602539) " stroke="#ffffff"/>
+  <rect fill="#ffffff" stroke-width="0" x="65.293611" y="3.126101" width="4.64081" height="14.053223" id="svg_15" transform="rotate(-36.79931640625 67.61401367187501,10.152711868286138) " stroke="#ffffff"/>
+  <text fill="#ffffff" stroke-width="0" x="19.516427" y="47.058938" id="svg_16" font-size="24" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="rotate(-0.5961592793464661 36.54742431640747,37.914360046386555) matrix(2.6865817482628294,0,0,1.9246975314974948,-31.981400215256514,-36.56241278881378) " stroke="#ffffff">J</text>
+  <text fill="#ffffff" stroke-width="0" x="34.751501" y="35.926892" id="svg_18" font-size="24" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(2.577732675700247,0,0,1.4912661314010618,-52.868696219337984,-7.084978738799691) " stroke="#ffffff">F</text>
+  <rect fill="#ffffff" stroke="#ffffff" stroke-width="0" x="51.974142" y="36.594421" width="9.354838" height="3.387097" id="svg_20"/>
+  <rect fill="#ffffff" stroke="#ffffff" stroke-width="0" x="27.780595" y="36.755711" width="9.354838" height="3.387097" id="svg_21"/>
+  <rect fill="#ffffff" stroke-width="0" x="42.927654" y="58.805045" width="4.705882" height="15.986717" id="svg_22" stroke="#ffffff"/>
+  <text font-style="normal" stroke="#ffffff" transform="rotate(44.021461486816406 23.737987518310565,67.23301696777344) matrix(0.7744572310153585,0,0,0.619110182344085,2.3254558774107075,36.229141905336974) " xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="24" id="svg_1" y="58.485234" x="12.319798" stroke-width="2" fill="#ffffff">Jio</text>
+  <text stroke="#ffffff" transform="rotate(-51.18598175048828 67.72985839843753,63.45944595336915) matrix(0.8267742116550315,0,0,0.6216832954666477,10.708277995058864,25.03650252147897) " xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="24" id="svg_2" y="70.038765" x="48.948004" stroke-width="2" fill="#ffffff">Fox</text>
+ </g>
+</svg>

@@ -10,6 +10,15 @@ header("Access-Control-Max-Age: 3600");
 
 header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
 
+
+// use ReallySimpleJWT\Token;
+
+// // Generate a token
+// $token = Token::getToken('userIdentifier', 'secret', 'tokenExpiryDateTimeString', 'issuerIdentifier');
+
+// // Validate the token
+// $result = Token::validate($token, 'secret');
+
 $model; 
 
 if($data = json_decode(file_get_contents("php://input"))){

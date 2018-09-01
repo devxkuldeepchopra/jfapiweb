@@ -1,0 +1,23 @@
+<svg width="270" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="102" width="272" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(2.9057846069335933,0,0,3.1481480598449707,-146.73467636108398,-181.22221612930298) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_1" y="78.435295" x="51.197004" stroke-width="2" fill="#000000">Doom</text>
+  <ellipse stroke="#e5e5e5" ry="40" rx="40.999999" id="svg_3" cy="48.333336" cx="220.16667" stroke-width="8.5" fill="none"/>
+  <rect id="svg_6" height="7" width="19" y="46.333336" x="175.666667" stroke-width="0" stroke="#7f007f" fill="#e5e5e5"/>
+  <rect id="svg_7" height="7" width="19" y="46.333336" x="244.666667" stroke-width="0" stroke="#7f007f" fill="#e5e5e5"/>
+  <rect transform="rotate(-90.43331909179688 220.16667175292963,80.8333358764648) " id="svg_9" height="7" width="17" y="77.333336" x="211.666667" stroke-width="0" stroke="#007fff" fill="#e5e5e5"/>
+  <rect transform="rotate(-90.43331909179688 220.1666717529297,13.833335876464831) " id="svg_10" height="7" width="17" y="10.333336" x="211.666667" stroke-width="0" stroke="#007fff" fill="#e5e5e5"/>
+  <text stroke="#000000" transform="matrix(2.1842359215727107,0,0,2.2862190705820344,-732.4442556469734,-97.10862173870743) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="73" x="424.898626" stroke-width="2" fill="#000000">W</text>
+  <text stroke="#e5e5e5" transform="matrix(2.9057846069335933,0,0,3.1481480598449707,-146.73467636108398,-181.22221612930298) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_16" y="79.282354" x="50.967577" stroke-width="2" fill="#ffffff">Doom</text>
+  <text stroke="#DDDDDD" transform="matrix(2.1842359215727107,0,0,2.2862190705820344,-721.1109226315315,-24.441957615172267) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_17" y="42.381763" x="419.404715" stroke-width="2" fill="#DDDDDD">W</text>
+ </g>
+</svg>

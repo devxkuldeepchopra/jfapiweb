@@ -38,7 +38,7 @@
 
                     <input class="input-search" type="text" placeholder="Search" />
 
-                    <input class="search-submit" type="submit" value="Search" />
+                    <input class="search-submit" type="submit" value="" />
 
                 </form>
 

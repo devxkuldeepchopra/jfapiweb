@@ -1,13 +1,10 @@
 <?php 
 
     require_once("common.php");
-
     require_once("_layout/header.php");
-
     require_once("_layout/sidebar.php");
-
     require_once("_layout/footer.php");
-
+    require_once("js/homejs.php");
     if(isset($_POST['page'])){
 
         $content->page = $_POST['page'];
@@ -71,11 +68,14 @@ echo '<!DOCTYPE html>
                 }        
        echo' </div>
     </body>
-    </html>
-    <script src="js/home.js"></script>
-    ';
+    </html><script> function showMenu() {
+        var x = document.getElementById("menu-list").style ;
+        var m = document.getElementById("menu").style;
+        var c = document.getElementById("close").style;
+        x.display == "block" ? (x.display = "none",c.display = "none", m.display = "block") : (x.display = "block", c.display = "block", m.display = "none");
+    } </script>';
 }
-
+echo'<script>'.jscode().'<script>';
 ?>
 
 
